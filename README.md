@@ -2,6 +2,10 @@
 
 Welcome to the Go Playground! This repository contains a collection of carefully crafted problems and exercises designed to help you understand Go's intricacies and improve your debugging skills. Whether you're an intermediate Go developer looking to deepen your understanding or someone preparing for technical interviews, this playground offers a wide range of challenges.
 
+## Prerequisites
+
+Before you begin, ensure you have Go installed on your machine. For detailed installation instructions, refer to the [PREREQUISITES.md](PREREQUISITES.md) file.
+
 ## Repository Structure
 
 ```

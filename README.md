@@ -18,7 +18,7 @@ Before you begin, ensure you have Go installed on your machine. For detailed ins
 │   ├── error-handling/     # Error handling patterns and best practices
 │   ├── performance/        # Performance optimization challenges
 │   └── debugging/          # Common debugging scenarios
-└── solutions/              # Reference solutions (to be added)
+└── solutions/              # Reference solutions
 ```
 
 ## How to Use This Repository
